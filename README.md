@@ -37,3 +37,6 @@ En promedio, el agente resuelve un tablero de 6x6 en:
 Instalación:
 ```bash
 pip install pygame
+
+Proyecto desarrollado por **Andrés Jaramillo** como parte de la evaluación de algoritmos de búsqueda.
+
